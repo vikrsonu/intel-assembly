@@ -2,3 +2,5 @@ basic intel
 64 bit register 
 rsp
 rbp
+rip 
+rdx
